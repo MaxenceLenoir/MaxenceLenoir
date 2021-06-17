@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi Mysterious Traveller 👋
 
-<!--
-**MaxenceLenoir/MaxenceLenoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Freelance Developper who began his new carrer after a bootcamp at [LeWagon](https://github.com/lewagon).
+After this bootcamp, I became Teacher Assistant and gave some classes. Beside that, I started to work on some Freelance projects.
 
-Here are some ideas to get you started:
+My main stack is Ruby on Rails, but I like to discover new things that's why I've already completed several courses on [Udemy](https://www.udemy.com/).
+Here some examples :
+- Modern React with Redux
+- Typescript : The Complete Developer's Guide
+- Node with React
+- Developpement Web Javascript : Node.Js & Mongo DB
+- Flutter & Dart
+- Docker and Kubernets : The Complete Guide
+- ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I made my first contribution to a public repository. I use my new skills in order to help the really nice [covilist](https://github.com/hostolab/covidliste) project.
+
+If you want to know more about me and see my work, you can go to my website -> just [here](https://www.maxencelenoir.dev/)
